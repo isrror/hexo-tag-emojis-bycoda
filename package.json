@@ -1,0 +1,24 @@
+{
+  "name": "hexo-tag-emojis-bycoda",
+  "version": "1.0.0",
+  "description": "hexo-tag-emojis-bycoda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomoriCoda/hexo-tag-emojis-bycoda.git"
+  },
+  "keywords": [
+    "hexo",
+    "tag",
+    "emoji"
+  ],
+  "author": "Coda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomoriCoda/hexo-tag-emojis-bycoda/issues"
+  },
+  "homepage": "https://github.com/TomoriCoda/hexo-tag-emojis-bycoda#readme"
+}
