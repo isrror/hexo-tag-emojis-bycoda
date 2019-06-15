@@ -8,5 +8,5 @@ npm i hexo-tag-emojis-bycoda --save
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/TomoriCoda/hexo-tag-emojis-bycoda/css/emoji.css">
 ```
-另有[emoji表情](https://www.hojun.cn/2019/04/05/Hexo%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%B7%BB%E5%8A%A0%E8%A1%A8%E6%83%85%E6%8F%92%E4%BB%B6emojis/)，来自hojun。
+参考了hojun大大的[emoji表情](https://www.hojun.cn/2019/04/05/Hexo%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%B7%BB%E5%8A%A0%E8%A1%A8%E6%83%85%E6%8F%92%E4%BB%B6emojis/)
 
