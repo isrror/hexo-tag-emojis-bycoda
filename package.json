@@ -1,6 +1,6 @@
 {
   "name": "hexo-tag-emojis-bycoda",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "hexo-tag-emojis-bycoda",
   "main": "index.js",
   "scripts": {
