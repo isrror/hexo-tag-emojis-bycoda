@@ -1,6 +1,7 @@
 .emoji-coda {
     display: inline-block !important;
     position: relative;
+    width: 56px;
     top: 2px;
     margin: 0 3px !important;
     padding: 0;
