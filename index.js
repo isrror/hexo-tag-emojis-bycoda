@@ -1,15 +1,15 @@
 /**
-* hexo-tag-emojis-byhj
-* https://github.com/honjun/hexo-tag-emojis-byhj.git
+* hexo-tag-emojis-bycoda
+* https://github.com/TomoriCoda/hexo-tag-emojis-bycoda.git
 * 
 /**
 * emojis tag
 *
 * Syntax:
-*   {% emoji_hj src, [className] %}
+*   {% emoji_coda src, [className] %}
 *
 * Example
-*   {% emoji_hj people/alien %}
+*   {% emoji_coda people/alien %}
 */
 hexo.extend.tag.register('emoji_coda', function(args){
   var src = args[0];
