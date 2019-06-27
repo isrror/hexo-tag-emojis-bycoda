@@ -1,1 +1,1 @@
-使用方法见我的[博客](https://www.tomori.xyz/2019/06/15/bilibili%E8%A1%A8%E6%83%85%E6%8F%92%E4%BB%B6/)
+使用方法见我的[博客](https://www.tomori.xyz/2019/06/15/emojis-plug-in-unit-for-bilibili/)
